@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.mobile.savannah_demo.app-merged_res-48:/drawable-v21_flutter.png.flat",
+        "source": "com.mobile.savannah_demo.app-main-42:/drawable-v21/flutter.png"
+    },
+    {
+        "merged": "/Users/michaeladeyemo/.gradle/daemon/7.5/com.mobile.savannah_demo.app-merged_res-48:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/michaeladeyemo/.gradle/daemon/7.5/com.mobile.savannah_demo.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/michaeladeyemo/.gradle/daemon/7.5/com.mobile.savannah_demo.app-merged_res-48:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/michaeladeyemo/.gradle/daemon/7.5/com.mobile.savannah_demo.app-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/michaeladeyemo/.gradle/daemon/7.5/com.mobile.savannah_demo.app-merged_res-48:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/michaeladeyemo/.gradle/daemon/7.5/com.mobile.savannah_demo.app-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mobile.savannah_demo.app-merged_res-48:/drawable-v21_main.png.flat",
+        "source": "com.mobile.savannah_demo.app-main-42:/drawable-v21/main.png"
+    },
+    {
+        "merged": "/Users/michaeladeyemo/.gradle/daemon/7.5/com.mobile.savannah_demo.app-merged_res-48:/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/michaeladeyemo/.gradle/daemon/7.5/com.mobile.savannah_demo.app-main-42:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/michaeladeyemo/.gradle/daemon/7.5/com.mobile.savannah_demo.app-merged_res-48:/drawable-v21_kotlin.png.flat",
+        "source": "/Users/michaeladeyemo/.gradle/daemon/7.5/com.mobile.savannah_demo.app-main-42:/drawable-v21/kotlin.png"
+    },
+    {
+        "merged": "/Users/michaeladeyemo/.gradle/daemon/7.5/com.mobile.savannah_demo.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/michaeladeyemo/.gradle/daemon/7.5/com.mobile.savannah_demo.app-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/michaeladeyemo/.gradle/daemon/7.5/com.mobile.savannah_demo.app-merged_res-48:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/michaeladeyemo/.gradle/daemon/7.5/com.mobile.savannah_demo.app-main-42:/mipmap-xhdpi/ic_launcher.png"
+    }
+]
